@@ -1,3 +1,3 @@
->>> Toxikuu
-> Samael Dev
-> discord.gg/<comingsoontm>
+Toxikuu
+- Samael Dev
+- discord.gg/<comingsoontm>
