@@ -1,3 +1,3 @@
 Toxikuu
 - Samael Dev
-- discord.gg/<comingsoontm>
+- https://discord.gg/N3rVjjVEsv
