@@ -8,10 +8,10 @@ Hi, I'm Toxikuu, or Tox.
 I daily drive and game on LFS. I occassionally write something worth sharing.
 
 I'm currently working on:
-- Rid
-- Rid-meta
+- [Rid](https://github.com/Toxikuu/rid)
+- [Rid-meta](https://github.com/Toxikuu/rid-meta)
 
 My past projects include:
-- Samael
-- Meth
-- Gimme
+- [Samael](https://github.com/Toxikuu/samael)
+- [Meth](https://github.com/Toxikuu/meth)
+- [Gimme](https://github.com/Toxikuu/gimme)
