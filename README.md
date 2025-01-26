@@ -12,8 +12,8 @@ I'm currently working on:
 - [2-main](https://github.com/Toxikuu/2-main) - The main package repository for 2
 
 I'm maintaining:
-- [Tuun](https://githubu.com/Toxikuu/tuun) - My music player
-- [LFStage](https://githubu.com/Toxikuu/tuun) - A utility for building stage 2 LFS tarballs
+- [Tuun](https://github.com/Toxikuu/tuun) - My music player
+- [LFStage](https://github.com/Toxikuu/lfstage) - A utility for building stage 2 LFS tarballs
 - [Rid](https://github.com/Toxikuu/rid) - My older source-based LFS package manager
 - [Rid-meta](https://github.com/Toxikuu/rid-meta) - Rid's package repository
 
