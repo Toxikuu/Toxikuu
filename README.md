@@ -13,6 +13,7 @@ I'm currently working on:
 
 I'm maintaining:
 - [Tuun](https://github.com/Toxikuu/tuun) - My music player
+- [Pact](https://github.com/Toxikuu/pact) - A presidential action tracker
 - [LFStage](https://github.com/Toxikuu/lfstage) - A utility for building stage 2 LFS tarballs
 - [Rid](https://github.com/Toxikuu/rid) - My older source-based LFS package manager
 - [Rid-meta](https://github.com/Toxikuu/rid-meta) - Rid's package repository
