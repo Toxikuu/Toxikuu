@@ -13,10 +13,10 @@ I'm currently working on:
 - [LFStage](https://github.com/Toxikuu/lfstage) - LFS stage file generator
 - [Tuun](https://github.com/Toxikuu/tuun) - My music player
 - [Permitit](https://github.com/Toxikuu/permitit) - Cute little rust library to permit errors
+- [catfetch](https://github.com/Toxikuu/catfetch) - Cute little fetch script written in rust
 
 I'm maintaining:
 - [Pact](https://github.com/Toxikuu/pact) - A presidential action tracker
-- [catfetch](https://github.com/Toxikuu/catfetch) - Cute little fetch script written in rust
 - [tf](https://github.com/Toxikuu/tf) - Fetch script for LFS
 - [tim](https://github.com/Toxikuu/tim) - Time alternative
 
