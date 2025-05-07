@@ -8,14 +8,16 @@ Hi, I'm Toxikuu, or Tox.
 I daily drive LFS. I occassionally write something worth sharing.
 
 I'm currently working on:
-- [2](https://github.com/Toxikuu/2) - My source-based LFS package manager, succeeding Rid
-- [2-main](https://github.com/Toxikuu/2-main) - The main package repository for 2
+- [to](https://github.com/Toxikuu/to) - The (hopefully) final iteration of my LFS package manager
+- [to-pkgs](https://github.com/Toxikuu/to-pkgs) - The package repository for to
 - [LFStage](https://github.com/Toxikuu/lfstage) - LFS stage file generator
 - [Tuun](https://github.com/Toxikuu/tuun) - My music player
 - [Permitit](https://github.com/Toxikuu/permitit) - Cute little rust library to permit errors
 - [catfetch](https://github.com/Toxikuu/catfetch) - Cute little fetch script written in rust
 
 I'm maintaining:
+- [2](https://github.com/Toxikuu/2) - My source-based LFS package manager, succeeding Rid
+- [2-main](https://github.com/Toxikuu/2-main) - The main package repository for 2
 - [Pact](https://github.com/Toxikuu/pact) - A presidential action tracker
 - [tf](https://github.com/Toxikuu/tf) - Fetch script for LFS
 - [tim](https://github.com/Toxikuu/tim) - Time alternative
