@@ -16,13 +16,13 @@ I'm currently working on:
 - [catfetch](https://github.com/Toxikuu/catfetch) - Cute little fetch script written in rust
 
 I'm maintaining:
-- [2](https://github.com/Toxikuu/2) - My source-based LFS package manager, succeeding Rid
-- [2-main](https://github.com/Toxikuu/2-main) - The main package repository for 2
-- [Pact](https://github.com/Toxikuu/pact) - A presidential action tracker
 - [tf](https://github.com/Toxikuu/tf) - Fetch script for LFS
 - [tim](https://github.com/Toxikuu/tim) - Time alternative
 
 My past projects include:
+- [Pact](https://github.com/Toxikuu/pact) - A presidential action tracker
+- [2](https://github.com/Toxikuu/2) - My source-based LFS package manager, succeeding Rid
+- [2-main](https://github.com/Toxikuu/2-main) - The main package repository for 2
 - [mo](https://github.com/Toxikuu/mo) - Unflinching mv alternative
 - [Rid](https://github.com/Toxikuu/rid) - My older source-based LFS package manager
 - [Rid-meta](https://github.com/Toxikuu/rid-meta) - Rid's package repository
